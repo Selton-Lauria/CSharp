@@ -1,0 +1,14 @@
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\bin\Debug\net10.0\Questão01.exe
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\bin\Debug\net10.0\Questão01.deps.json
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\bin\Debug\net10.0\Questão01.runtimeconfig.json
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\bin\Debug\net10.0\Questão01.dll
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\bin\Debug\net10.0\Questão01.pdb
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.AssemblyInfoInputs.cache
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.AssemblyInfo.cs
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.csproj.CoreCompileInputs.cache
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.dll
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\refint\Questão01.dll
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.pdb
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\Questão01.genruntimeconfig.cache
+C:\Users\Windows11\Documents\estudos\C#\Aula1\Questão01\obj\Debug\net10.0\ref\Questão01.dll
